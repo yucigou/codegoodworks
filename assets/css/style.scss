@@ -59,11 +59,14 @@ li {
 .site-footer {
 	background: url({{ site.baseurl }}/assets/images/codegoodworks.png) no-repeat right bottom;
 	margin-top: 0;
-	padding-top: 5rem;
 
 	@media screen and (max-width: 650px) {
 		text-align: center;
 		padding-bottom: 65px;
 		background-position: center bottom;
 	}
+}
+
+#bible-verse {
+    padding-bottom: 20px;
 }
