@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<p>Code Good Works is committed to providing free training courses to help beginners jump start their coding journey.</p>
+<p>Code Good Works is committed to providing free training courses to help beginners jump start their coding journeys.</p>
 
 <h1>Latest posts:</h1>
 
