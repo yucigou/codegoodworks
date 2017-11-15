@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<p>Code Good Works provides free courses to help beginners jump start their coding skills</p>
+<p>Code Good Works provides free courses to help beginners jump start their coding journey.</p>
 
 <h1>Latest posts:</h1>
 
