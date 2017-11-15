@@ -17,7 +17,7 @@ title: Code Good Works
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Code Good Works helps beginners jump start their coding skills
-baseurl: /codegoodworks
+baseurl: /
 url: http://codegoodworks.org/
 # twitter_username: jekyllrb
 github_username:  yucigou
