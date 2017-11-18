@@ -5,6 +5,7 @@ date:   2017-11-15 14:36:41 +0000
 categories: database
 author: Yuci
 ---
+
 You can use PostgreSQL's interactive terminal Psql to show tables in PostgreSQL. 
 
 **1. Start Psql**
@@ -36,3 +37,5 @@ Now in Psql you could run commands such as:
  4. `\c [DBNAME]` connect to new database, e.g., `\c template1`
  5. `\dt` list tables
  6. `\q` quit psql
+
+<script src="{{'/assets/js/post.js'}}"></script>

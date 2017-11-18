@@ -1,7 +1,47 @@
 ---
+# Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import "{{ site.theme }}";
+@charset "utf-8";
+
+.page-header {
+    padding: 2rem 1rem 0 1rem;
+    margin-top: 0;
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+.main-content {
+    padding: 2rem 1rem;
+}
+
+.main-content {
+    word-wrap: break-word;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+// @import "{{ site.theme }}";
 
 .main-content :first-child {
     margin-top: inherit;
@@ -57,8 +97,8 @@ li {
 }
 
 .site-footer {
-	background: url({{ site.baseurl }}/assets/images/codegoodworks.png) no-repeat right bottom;
-	margin-top: 0;
+	background: url({{ site.baseurl }}/assets/images/codegoodworks.png) no-repeat right;
+	margin-top: 10px;
 
 	@media screen and (max-width: 650px) {
 		text-align: center;
@@ -67,6 +107,43 @@ li {
 	}
 }
 
-#bible-verse {
-    padding-bottom: 20px;
+.site-footer p#first-verse {
+    margin-bottom: 0px;
+}
+
+.site-footer p#last-verse {
+    padding-bottom: 30px;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+/* navbar */
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-toggle {
+	border-color: #156190;
+    background-color: #156190;
+}
+
+toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    opacity: 0.5;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    border-color: #156190;
+    background-color: #156190;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #156190;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: transparent;
 }
