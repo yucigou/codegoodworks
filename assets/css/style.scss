@@ -85,10 +85,10 @@ li {
 	.post-excerpt-date {
 		font-size: .9em;
 		display: inline;
-		vertical-align: 3px;
+		// vertical-align: 3px;
 		padding-right: 10px;
-		margin-right: 10px;
-		border-right: solid 1px #eff0f1;
+		// margin-right: 10px;
+		// border-right: solid 1px #eff0f1;
 	}
 
 	.post-excerpt-title {
@@ -129,6 +129,10 @@ li {
 
 .post-heading span {
 	font-style: italic;
+}
+
+.post-excerpt img {
+	border-radius: 25px;
 }
 
 /* navbar */
