@@ -3,7 +3,7 @@ layout: post
 title:  "Show tables in PostgreSQL"
 date:   2017-11-15 14:36:41 +0000
 categories: database
-author: Yuci
+author: yuci_gou
 ---
 
 You can use PostgreSQL's interactive terminal Psql to show tables in PostgreSQL. 

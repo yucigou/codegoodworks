@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign author = site.data.authors[page.author] %}
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -17,8 +19,8 @@ layout: default
           {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
-          <span class="meta">Posted by
-            <a href="#">Start Bootstrap</a>
+          <span class="meta">Written by
+            <a href="{{ author.github }}"><img src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24">&nbsp;{{ author.name }}</a>
             on {{ page.date | date: '%B %d, %Y' }}</span>
         </div>
       </div>
@@ -32,7 +34,7 @@ layout: default
 
       {{ content }}
 
-      <hr>
+      <!--<hr>-->
 
       <div class="clearfix">
 
