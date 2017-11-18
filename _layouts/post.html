@@ -21,7 +21,8 @@ layout: default
           {% endif %}
           <span class="meta">Written by&nbsp;
             <a href="{{ author.github }}"><img src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24">&nbsp;{{ author.name }}</a>
-            on {{ page.date | date: '%B %d, %Y' }}</span>
+            on {{post.date | date_to_string}}</span>
+            <!--on {{ page.date | date: '%B %d, %Y' }}</span>-->
         </div>
       </div>
     </div>
