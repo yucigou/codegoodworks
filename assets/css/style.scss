@@ -163,3 +163,31 @@ toggle:focus, .navbar-inverse .navbar-toggle:hover {
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: transparent;
 }
+
+/* Form */
+
+form {
+	padding: 10px;	
+}
+
+form input[type="email"], form input[type="text"] {
+	margin: 10px 0;
+	display: block;
+}
+
+form textarea {
+	margin: 10px 0 10px 0;
+	display: block;
+}
+
+form button {
+	display: block;
+}
+
+form label {
+	display: block;
+}
+
+form label[for="message"] {
+	margin-top: 10px;
+}
