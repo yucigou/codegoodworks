@@ -15,10 +15,10 @@ Please fill the form to enrol in the course.
 
   <input type="hidden" name="_subject" value="Application for course Jump-start HTML & CSS" />
   <label for="fullname">Your full name:</label>
-  <input type="text" name="fullname" placeholder="Your full name" size="35"/>
+  <input type="text" name="fullname" placeholder="Your full name" size="30"/>
 
   <label for="email">Your email:</label>
-  <input type="email" name="_replyto" placeholder="Your email" size="35"/>
+  <input type="email" name="_replyto" placeholder="Your email" size="30"/>
   
   <input type="radio" name="enrolment" value="signup" checked="checked"> Sign up
   <input type="radio" name="enrolment" value="withdraw"> Withdraw
