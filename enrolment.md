@@ -24,7 +24,7 @@ Please fill the form to enrol in the course.
   <input type="radio" name="enrolment" value="withdraw"> Withdraw
   
   <label for="message">Message:</label>
-  <textarea name="message" id="message" placeholder="" rows="5" cols="30" maxlength="200"></textarea>
+  <textarea name="message" id="message" placeholder="" rows="5" cols="32" maxlength="200"></textarea>
   <input type="text" name="_gotcha" style="display:none" />
   <button type="submit">Send</button>
 
