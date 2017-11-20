@@ -167,7 +167,7 @@ toggle:focus, .navbar-inverse .navbar-toggle:hover {
 /* Form */
 
 form {
-	padding: 10px;	
+	padding: 0 10px 10px 10px;	
 }
 
 form input[type="email"], form input[type="text"] {
@@ -198,4 +198,9 @@ div.notes {
 
 .gravatar {
 	border-radius: 25px;
+}
+
+ul.course-info {
+    list-style-type: square;
+    margin-bottom: 20px;
 }

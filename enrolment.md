@@ -7,8 +7,17 @@ layout: page
 
 <h1>Jump-start HTML & CSS</h1>
 
+<ul class="course-info">
+<li>Date: 16 December 2017
+</li>
+<li>Location: Cambridge, England
+</li>
+<li>Requirements: If possible, bring your own laptop with a text editor 
+(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, etc.) and a browser (such as Google Chrome or Firefox) installed.
+</li>
+</ul>
 <p>
-Please fill the form to enrol in the course.
+Please fill the form to enrol in the course:
 </p>
 
 <form id="application-form" method="POST" action="http://formspree.io/brother.yuci@gmail.com">
