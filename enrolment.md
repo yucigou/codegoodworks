@@ -8,6 +8,8 @@ layout: page
 <h1>Jump-start HTML & CSS</h1>
 
 <ul class="course-info">
+<li>Time: 14:15 - 16:45 (2.5 hours)
+</li>
 <li>Date: 16 December 2017
 </li>
 <li>Location: Cambridge, England
