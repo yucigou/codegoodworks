@@ -13,7 +13,7 @@ layout: page
 
 <p>
 If you are considering to obtain basic coding skills in order to look for a job as a programmer,
-or not sure if coding is something you would really enjoy,
+or would like to find out if coding is something you would really enjoy,
 Code Good Works might be able to help.
 </p>
 

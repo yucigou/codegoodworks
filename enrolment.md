@@ -15,7 +15,7 @@ layout: page
 <li>Location: Cambridge, England
 </li>
 <li>Requirements: If possible, bring your own laptop with a text editor 
-(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, etc.) and a browser (such as Google Chrome or Firefox) installed.
+(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, etc., which are free) and a browser (such as Google Chrome or Firefox) installed.
 </li>
 </ul>
 <p>
