@@ -12,7 +12,7 @@ layout: page
 </li>
 <li>Date: 16 December 2017
 </li>
-<li>Location: Family Centre's Small Room, Cherry Hinton Baptist Church, 95 High Street, Cherry Hinton, Cambridge, England
+<li>Location: Family Centre's Small Room, Cherry Hinton Baptist Church, 95 High Street, Cherry Hinton, Cambridge, CB1 9HR
 </li>
 <li>Requirements: If possible, bring your own laptop with a text editor 
 (e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, etc., which are free) and a browser (such as Google Chrome or Firefox) installed.
