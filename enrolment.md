@@ -12,10 +12,21 @@ layout: page
 </li>
 <li>Date: 16 December 2017
 </li>
-<li>Location: Family Centre's Small Room, Cherry Hinton Baptist Church, 95 High Street, Cherry Hinton, Cambridge, CB1 9HR
+<li>Location: 
+  <ul class="location">
+    <li>Family Centre's Small Room</li>
+    <li>Cherry Hinton Baptist Church</li>
+    <li>95 High Street, Cherry Hinton</li>
+    <li>Cambridge, CB1 9HR</li>
+  </ul>
 </li>
-<li>Requirements: If possible, bring your own laptop with a text editor 
-(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, etc., which are free) and a browser (such as Google Chrome or Firefox) installed.
+<li>Requirements:
+  <ul class="requirement">
+    <li>Bring your own laptop if possible</li>
+    <li>A text editor installed 
+(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, which are free)</li>
+    <li>A browser installed (e.g., Google Chrome or Firefox)</li>
+  </ul>
 </li>
 </ul>
 <p>
@@ -43,11 +54,11 @@ Please fill the form to enrol in the course:
     <p>Notes:</p>
     <ul>
     <li>
-    There are only ten places available for this course due to the size of the venue.
+    There are only 10 places available for this course due to the size of the venue.
     We will email you to confirm if you have succesfully signed up the course.
     </li>
     <li>
-    If there are more than ten applications for enrolling in this course, 
+    If there are more than 10 applications for enrolling in this course, 
     and you happen to be one of those who are not able to sign up this time, 
     we will consider to open the course again for you soon afterwards. 
     Really sorry for the inconvenience, and thank you for your kind consideration and support.

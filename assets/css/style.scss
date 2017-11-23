@@ -204,3 +204,30 @@ ul.course-info {
     list-style-type: square;
     margin-bottom: 20px;
 }
+
+ul.location {
+	list-style-type: none;
+	font-size: 0.9em;
+}
+
+ul.location > li {
+  text-indent: -17px;
+}
+
+ul.location > li:before {
+  //content: "- ";
+}
+
+ul.requirement {
+	list-style-type: none;
+	font-size: 0.9em;
+	padding-left: 25px;
+}
+
+ul.requirement > li {
+  text-indent: -9px;
+}
+
+ul.requirement > li:before {
+  content: "- ";
+}
