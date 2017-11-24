@@ -5,13 +5,14 @@
 layout: page
 ---
 
-<h1>Jump-start HTML & CSS</h1>
 <!--<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">-->
 
 <picture>
     <source media="(min-width: 500px)" srcset="/assets/images/2017-12-16-jump-start-html-css.png">
     <img class="poster" src="/assets/images/2017-12-16-jump-start-html-css-mobile.png" alt="Course Poster">
 </picture>
+
+<h1>Jump-start HTML & CSS</h1>
 
 <ul class="course-info">
 <li>Time: 14:15 - 16:45 (2.5 hours)
@@ -35,11 +36,31 @@ layout: page
   </ul>
 </li>
 </ul>
+
+<div class="notes">
+    <p>Notes:</p>
+    <ul>
+    <li>
+    There are only 10 places available for this course due to the size of the venue.
+    We will email you to confirm if you have succesfully signed up the course.
+    </li>
+    <li>
+    If there are more than 10 applications for enrolling in this course, 
+    and you happen to be one of those who are not able to sign up this time, 
+    we will consider to open the course again for you soon afterwards. 
+    Really sorry for the inconvenience, and thank you for your kind consideration and support.
+    </li>
+    </ul>
+</div>
+
 <p>
 Please fill the form to enrol in the course:
 </p>
 
-<form id="application-form" method="POST" action="http://formspree.io/brother.yuci@gmail.com">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkcwBkfqQ8lVDt8tI2MLv8TUZeTTg1SL3LVCLUPheyih_YPA/viewform?embedded=true" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<!--
+<form id="application-form" method="POST" action="http://formspree.io/xxx@gmail.com">
 
   <input type="hidden" name="_subject" value="Application for course Jump-start HTML & CSS" />
   <label for="fullname">Your full name:</label>
@@ -56,22 +77,7 @@ Please fill the form to enrol in the course:
   <input type="text" name="_gotcha" style="display:none" />
   <button type="submit">Send</button>
 
-    <div class="notes">
-    <p>Notes:</p>
-    <ul>
-    <li>
-    There are only 10 places available for this course due to the size of the venue.
-    We will email you to confirm if you have succesfully signed up the course.
-    </li>
-    <li>
-    If there are more than 10 applications for enrolling in this course, 
-    and you happen to be one of those who are not able to sign up this time, 
-    we will consider to open the course again for you soon afterwards. 
-    Really sorry for the inconvenience, and thank you for your kind consideration and support.
-    </li>
-    </ul>
-    </div>
-
 </form>
+-->
 
 <script src="{{'/assets/js/enrolment.js'}}"></script>
