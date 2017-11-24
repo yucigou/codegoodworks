@@ -6,7 +6,7 @@ layout: page
 ---
 
 <h1>Jump-start HTML & CSS</h1>
-<img src="/assets/images/2017-12-16-jump-start-html-css.png">
+<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">
 <ul class="course-info">
 <li>Time: 14:15 - 16:45 (2.5 hours)
 </li>
