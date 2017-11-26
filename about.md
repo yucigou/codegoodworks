@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+title: Code Good Works - free courses for beginners
 ---
 
 {% assign author = site.data.authors['yuci_gou'] %}

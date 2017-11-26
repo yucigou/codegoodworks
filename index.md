@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+title: Code Good Works - free courses for beginners
 ---
 
 <h1>Latest Posts</h1>
