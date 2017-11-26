@@ -247,3 +247,13 @@ img.poster {
 iframe {
   width:100%;
 }
+
+// @media screen and (min-width: 768px) {
+// 	.navbar-nav>li>a {
+//     	text-decoration: underline;
+// 	}
+// }
+
+a[disabled] {
+    pointer-events: none;
+}
