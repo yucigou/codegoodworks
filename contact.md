@@ -5,6 +5,6 @@
 layout: page
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSck9kt3hAlsSlh-KCI0j8mcz1tCMwhrsnC4o8I8DHX99nnSeQ/viewform?embedded=true" width="100%" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSck9kt3hAlsSlh-KCI0j8mcz1tCMwhrsnC4o8I8DHX99nnSeQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <script src="{{'/assets/js/contact.js'}}"></script>
