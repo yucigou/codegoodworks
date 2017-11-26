@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Code Good Works - enrol in a free course
+title: Enrol in a free course - Code Good Works
 ---
 
 <!--<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">-->

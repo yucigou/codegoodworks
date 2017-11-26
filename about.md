@@ -3,14 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Code Good Works - free courses for beginners
+title: Free courses for beginners - Code Good Works
 ---
 
 {% assign author = site.data.authors['yuci_gou'] %}
 
 <h1>About</h1>
 
-<p>Code Good Works is committed to providing free training courses to help beginners jump start their coding journeys.</p>
+<p>Code Good Works is a charitable foundation, committed to providing free training courses to help beginners jump start their coding journeys.</p>
 
 <p>
 If you are considering to obtain basic coding skills in order to look for a job as a programmer,
