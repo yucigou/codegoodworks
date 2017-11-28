@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<script src="{{'/assets/js/post.js'}}"></script>
+
 {% assign author = site.data.authors[page.author] %}
 
 <!-- Page Header -->
@@ -20,7 +22,7 @@ layout: default
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
           <span class="meta">Written by&nbsp;
-            <a href="{{ author.github }}"><img src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24">&nbsp;{{ author.name }}</a>
+            <a href="{{ author.github }}">{{ author.name }}&nbsp;&nbsp;<img src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24"></a>
             on {{page.date | date_to_string}}</span>
             <!--on {{ page.date | date: '%B %d, %Y' }}</span>-->
         </div>

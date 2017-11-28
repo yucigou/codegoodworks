@@ -38,5 +38,3 @@ Now in Psql you could run commands such as:
  4. `\c [DBNAME]` connect to new database, e.g., `\c template1`
  5. `\dt` list tables
  6. `\q` quit psql
-
-<script src="{{'/assets/js/post.js'}}"></script>
