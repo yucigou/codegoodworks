@@ -62,7 +62,7 @@ title: Enrol in a free course - Code Good Works
 Please fill the form to enrol in the course:
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkcwBkfqQ8lVDt8tI2MLv8TUZeTTg1SL3LVCLUPheyih_YPA/viewform?embedded=true" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkcwBkfqQ8lVDt8tI2MLv8TUZeTTg1SL3LVCLUPheyih_YPA/viewform?embedded=true" height="1650" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <!--
 <form id="application-form" method="POST" action="http://formspree.io/xxx@gmail.com">
