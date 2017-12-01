@@ -15,6 +15,8 @@ title: Enrol in a free course - Code Good Works
 
 <h1>Jump-start HTML & CSS</h1>
 
+<p>HTML & CSS is the starting point in web development. You don't need a computer science degree or any commercial/paid software. All you need are a computer, a passion, and a coach to give you some guidance.</p>
+
 <ul class="course-info">
 <li>Time: 14:15 - 16:45 (2.5 hours)
 </li>
