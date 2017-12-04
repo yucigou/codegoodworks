@@ -16,7 +16,7 @@ title: Enrol in a free course - Code Good Works
 <h1>Jump-start HTML & CSS</h1>
 
 <p>HTML & CSS is everywhere, and you will meet them at every turn on the Internet.</p>
-<p>HTML & CSS is the starting point in web development. And you don't need a computer science degree at all or any commercial/paid software to learn or use these computer languages. All you need as a beginner are just a computer/laptop, a passion, and a coach to give you some guidance.</p>
+<p>HTML & CSS is the starting point in web development. In fact, you don't need a computer science degree at all or any commercial/paid software to learn or use these computer languages. All you need as a beginner are just a computer/laptop, a passion, and a coach to give you some guidance.</p>
  
 <p>This is a free course onsite.</p>
 
