@@ -16,7 +16,7 @@ title: Free courses for beginners - Code Good Works
 	<h2 class="post-excerpt-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 	&nbsp;<p class="post-excerpt-date">{{ post.date | date_to_string}}</p>
 	
-    <a href="{{ author.github }}"><img src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24"></a>
+    <a href="{{ author.linkedin }}"><img src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a>
     
     {{ post.excerpt }}
     <p><a href="{{ site.baseurl }}{{ post.url }}">Continue reading &rsaquo;</a></p>

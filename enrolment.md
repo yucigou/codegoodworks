@@ -6,6 +6,8 @@ layout: page
 title: Enrol in a free course - Code Good Works
 ---
 
+{% assign author = site.data.authors['yuci_gou'] %}
+
 <!--<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">-->
 
 <picture>
@@ -40,6 +42,9 @@ title: Enrol in a free course - Code Good Works
 (e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, which are free)</li>
     <li>A browser installed (e.g., Google Chrome or Firefox)</li>
   </ul>
+</li>
+<li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a> is currently working as a senior full-stack web developer at EMBL-EBI, 
+and he has about 17 years' coding experience.
 </li>
 </ul>
 

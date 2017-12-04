@@ -20,7 +20,7 @@ Code Good Works might be able to help.
 
 <h2>Our coaches</h2>
 <p>
-<a href="{{ author.github }}"><img class="gravatar" src="{{ author.gravatar }}" alt="{{ author.name }}" width="24" height="24"> {{ author.name }}</a> is currently working as a senior full-stack web developer at EMBL-EBI, 
+<a href="{{ author.linkedin }}"><img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"> {{ author.name }}</a> is currently working as a senior full-stack web developer at EMBL-EBI, 
 and he has about 17 years' coding experience.
 </p>
 
