@@ -23,5 +23,6 @@ Code Good Works might be able to help.
 <a href="{{ author.linkedin }}"><img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"> {{ author.name }}</a> is currently working as a senior full-stack web developer at EMBL-EBI, 
 and he has about 17 years' coding experience.
 </p>
+<p>You can also find him on <a href="{{ author.github }}" alt="GitHub">GitHub</a> or <a href="{{ author.stackoverflow }}" alt="Stack Overflow">Stack Overflow</a></p>
 
 <script src="{{'/assets/js/about.js'}}"></script>
