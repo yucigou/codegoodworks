@@ -37,6 +37,7 @@ title: Free onsite course for beginners - Code Good Works
 </li>
 <li>Requirements:
   <ul class="requirement">
+    <li>This course is for adult leaners only.</li>
     <li>Bring your own laptop if possible</li>
     <li>A text editor installed 
 (e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, which are free)</li>
