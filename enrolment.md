@@ -16,7 +16,7 @@ title: Free onsite course for beginners - Code Good Works
 </picture>
 
 <header>
-  <h1 style="float:left">Jump-start HTML & CSS <span class="subtitle">-- From Novice to Professional</span></h1>
+  <h1>Jump-start HTML & CSS <span class="subtitle">-- From Novice to Hands-on</span></h1>
 </header>
 
 
