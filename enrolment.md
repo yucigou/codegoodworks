@@ -15,7 +15,10 @@ title: Free onsite course for beginners - Code Good Works
     <img class="poster" src="/assets/images/2017-12-16-jump-start-html-css-mobile.png" alt="Course Poster">
 </picture>
 
-<h1>Jump-start HTML & CSS</h1>
+<header>
+  <h1 style="float:left">Jump-start HTML & CSS <span class="subtitle">-- From Novice to Professional</span></h1>
+</header>
+
 
 <p>HTML & CSS is everywhere, and you will meet them at every turn on the Internet.</p>
 <p>HTML & CSS is the starting point in web development. In fact, you don't need a computer science degree at all or any commercial/paid software to learn or use these computer languages. All you need as a beginner are just a computer/laptop, a passion, and a coach to give you some guidance.</p>
