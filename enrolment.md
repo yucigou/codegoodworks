@@ -44,7 +44,7 @@ title: Free onsite course for beginners - Code Good Works
     <li>This course is for adult leaners only.</li>
     <li>Bring your own laptop if possible</li>
     <li>A text editor installed 
-(e.g., <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, which are free)</li>
+(e.g., <a href="https://www.sublimetext.com/">Sublime Text</a>, which is free for evaluation for an unlimited time. Alternatively, <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, which are totally free.)</li>
     <li>A browser installed (e.g., Google Chrome or Firefox)</li>
   </ul>
 </li>
