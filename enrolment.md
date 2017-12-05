@@ -38,6 +38,7 @@ title: Free onsite course for beginners - Code Good Works
     <li>Cambridge, CB1 9HR</li>
   </ul>
 </li>
+<li>Language: Delivered in English</li>
 <li>Requirements:
   <ul class="requirement">
     <li>This course is for adult leaners only.</li>
