@@ -7,7 +7,7 @@ author: yuci_gou
 excerpt_separator: <!--more-->
 ---
 
-You can give [PostDock][1] a try, either with docker-compose or Kubernetes. Currently I have only tried it with docker-compose, with the schema as shown below:
+You can give [PostDock][1] a try, either with docker-compose or Kubernetes. Currently I have tried it with docker-compose, with the schema as shown below:
 
     pgmaster (primary node1)  --|
     |- pgslave1 (node2)       --|
