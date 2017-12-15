@@ -238,6 +238,11 @@ img.poster {
     height: auto;
 }
 
+img.post {
+	width: 100%;
+	height: auto;
+}
+
 @media screen and (min-width: 500px){
 	img.poster {
 	    width: auto;

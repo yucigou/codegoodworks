@@ -9,11 +9,7 @@ excerpt_separator: <!--more-->
 
 You can give [PostDock][1] a try, either with docker-compose or Kubernetes. I have tried it with docker-compose so far, with the schema as shown below:
 
-    pgmaster (primary node1)  --|
-    |- pgslave1 (node2)       --|
-    |  |- pgslave2 (node3)    --|----pgpool (master_slave_mode stream)----client
-    |- pgslave3 (node4)       --|
-       |- pgslave4 (node5)    --|
+<img src="{{ site.baseurl }}/assets/images/postgres_failover.PNG" class="post" alt="PostgreSQL Failover">
 
 <!--more-->
 
@@ -27,14 +23,9 @@ As for the client application, these changes are all transparent. The client jus
 
 **Note**: In case you have problems to get PostDock up running, you could try [my forked version of PostDock][2].
 
-You could even go steps further, to avoid a single point of failure. For example (see [this article][3]):
+You could even go steps further, for example, to avoid a single point of failure (see [this article][3]):
 
-    master (primary node1)  --\
-    |- slave1 (node2)       ---\     / balancer \
-    |  |- slave2 (node3)    ----|---|            |----client
-    |- slave3 (node4)       ---/     \ balancer /
-       |- slave4 (node5)    --/
-
+<img src="{{ site.baseurl }}/assets/images/postgres_failover_lb.PNG" class="post" alt="PostgreSQL Failover with Load Balancer">
 
   [1]: https://github.com/paunin/PostDock
   [2]: https://github.com/yucigou/PostDock
