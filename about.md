@@ -13,10 +13,10 @@ title: Free courses for beginners - Code Good Works
 <p>Code Good Works is a charitable foundation, committed to providing free training courses to help beginners with their coding journeys.</p>
 
 <p>
-If you are considering to: 
+If you are considering: 
 <ol>
-    <li>Obtain coding skills in order to look for a job as a programmer, or</li>
-    <li>Acquire new coding skills to help with your job or projects,</li>
+    <li>Obtaining coding skills in order to look for a job as a programmer, or</li>
+    <li>Acquiring new coding skills to help with your job or projects,</li>
 </ol>
 Code Good Works might be able to help.
 </p>
