@@ -10,25 +10,23 @@ title: Free onsite course for beginners - Code Good Works
 
 <!--<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">-->
 
-<picture>
-    <source media="(min-width: 500px)" srcset="/assets/images/2017-12-16-jump-start-html-css.png">
-    <img class="poster" src="/assets/images/2017-12-16-jump-start-html-css-mobile.png" alt="Course Poster">
-</picture>
+<!--<picture>-->
+<!--    <source media="(min-width: 500px)" srcset="/assets/images/2017-12-16-jump-start-html-css.png">-->
+<!--    <img class="poster" src="/assets/images/2017-12-16-jump-start-html-css-mobile.png" alt="Course Poster">-->
+<!--</picture>-->
 
 <header>
-  <h1>Jump-start HTML & CSS <span class="subtitle">-- From Novice to Prospective Professional</span></h1>
+  <h1>JavaScript <span class="subtitle">-- From Novice to Prospective Professional</span></h1>
 </header>
 
 
-<p>HTML & CSS is everywhere, and you will meet them at every turn on the Internet.</p>
-<p>HTML & CSS is the starting point in web development. In fact, you don't need a computer science degree at all or any commercial/paid software to learn or use these computer languages. All you need as a beginner are just a computer/laptop, a passion, and a coach to give you some guidance.</p>
+<p>JavaScript is an object-oriented scripting language which is used in web pages along with HTML and CSS. JavaScript has been adopted universally by almost all web browsers for years. JavaScript is the most popular languages according to Stack Overflow and the 'Facebook for programmers' in 2017.</p>
+<p>This <em>onsite</em> course will get you started coding in JavaScript, from novice to prospective professional.</p>
  
-<p>This is a free course <em>onsite</em>.</p>
-
 <ul class="course-info">
 <li>Time: 14:15 - 16:45 (2.5 hours)
 </li>
-<li>Date: 16 December 2017
+<li>Date: 3 February 2018
 </li>
 <li>Location: 
   <ul class="location">
@@ -57,11 +55,11 @@ and he has about 17 years' coding experience.
     <p>Notes:</p>
     <ul>
     <li>
-    There are only 10 places available for this course due to the size of the venue.
+    There are only 7 places available for this course due to the size of the venue.
     We will email you to confirm if you have succesfully signed up the course.
     </li>
     <li>
-    If there are more than 10 applications for enrolling in this course, 
+    If there are more than 7 applications for enrolling in this course, 
     and you happen to be one of those who are not able to sign up this time, 
     we will consider to open the course again for you soon afterwards. 
     Really sorry for the inconvenience, and thank you for your kind consideration and support.

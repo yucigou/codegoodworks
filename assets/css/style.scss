@@ -244,6 +244,10 @@ img.post {
 	border-radius: 0px;
 }
 
+.main-content img.gravatar {
+	margin-top:0;
+}
+
 @media screen and (min-width: 500px){
 	img.poster {
 	    width: auto;
