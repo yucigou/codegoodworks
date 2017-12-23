@@ -20,7 +20,8 @@ title: Free onsite course for beginners - Code Good Works
 </header>
 
 
-<p>JavaScript is an object-oriented scripting language which is used in web pages along with HTML and CSS. JavaScript has been adopted universally by almost all web browsers for years. JavaScript is the most popular languages according to Stack Overflow and the 'Facebook for programmers' in 2017.</p>
+<p>JavaScript is an object-oriented scripting language which is used in web pages along with HTML and CSS. JavaScript is the only client-side scriping language that has been adopted universally by almost all web browsers, such as Google Chrome, Firefox, Internet Explorer, Opera, and so on.</p>
+<p>According to Stack Overflow and the 'Facebook for programmers', JavaScript is the most popular programming language in 2017.</p>
 <p>This <em>onsite</em> course will get you started coding in JavaScript, from novice to prospective professional.</p>
  
 <ul class="course-info">
