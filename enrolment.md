@@ -10,10 +10,10 @@ title: Free onsite course for beginners - Code Good Works
 
 <!--<img class="poster" src="/assets/images/2017-12-16-jump-start-html-css.png">-->
 
-<!--<picture>-->
-<!--    <source media="(min-width: 500px)" srcset="/assets/images/2017-12-16-jump-start-html-css.png">-->
-<!--    <img class="poster" src="/assets/images/2017-12-16-jump-start-html-css-mobile.png" alt="Course Poster">-->
-<!--</picture>-->
+<picture>
+    <source media="(min-width: 500px)" srcset="/assets/images/2018-02-03-javascript.png">
+    <img class="poster" src="/assets/images/2018-02-03-javascript-mobile.png" alt="Course Poster">
+</picture>
 
 <header>
   <h1>JavaScript <span class="subtitle">-- From Novice to Prospective Professional</span></h1>
