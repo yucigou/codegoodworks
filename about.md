@@ -18,7 +18,7 @@ If you are considering:
     <li>Obtaining coding skills in order to look for a job as a programmer, or</li>
     <li>Acquiring new coding skills to help with your job or projects,</li>
 </ol>
-Code Good Works might be able to help.
+Code Good Works might be able to help, and you will be able to code good works.
 </p>
 
 <h2>Our coaches</h2>
