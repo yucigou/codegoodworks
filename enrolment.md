@@ -18,8 +18,8 @@ title: Free onsite courses for beginners - Code Good Works
 </header>
 
 
-<p>Vue.js is a JavaScript framework for building frontend web applications.</p>
-<p>Vue.js is arguably the best and mostly developer friendly framework in the industry, even better than ReactJS and AngularJS.</p>
+<p><a href="https://vuejs.org/">Vue.js</a> is a JavaScript framework for building frontend web applications.</p>
+<p>Vue.js is arguably the best and mostly developer friendly JavaScript framework in the industry, even better than ReactJS and AngularJS.</p>
 <p>We will learn the fundamentals of the Vue.js framework, and this <em>onsite</em> course will get you started using Vue.js to create your own reactive web applications, both multi-pages and single-page applications.</p>
 
 <ul class="course-info">
