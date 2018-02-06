@@ -14,7 +14,7 @@ title: Free onsite courses for beginners - Code Good Works
 <!--</picture>-->
 
 <header>
-  <h1>Vue.js <span class="subtitle">-- Jump Start</span></h1>
+  <h1>Vue.js <span class="subtitle">-- Jump-start developing web apps</span></h1>
 </header>
 
 
