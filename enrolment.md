@@ -17,7 +17,7 @@ title: Free onsite courses for beginners - Code Good Works
   <h1>Vue.js <span class="subtitle">-- Jump-start building web apps</span></h1>
 </header>
 
-<p>Once you have acquired basic knowledge of HTML, CSS and JavaScript, now it is ready to learn how to build web applications.</p>
+<p>Once you have acquired basic knowledge of HTML, CSS and JavaScript, you are ready to learn how to build web applications!</p>
 <p><a href="https://vuejs.org/">Vue.js</a> is a JavaScript framework for building web applications. It is arguably the best and mostly developer friendly JavaScript framework in the industry, even better than ReactJS and AngularJS.</p>
 <p>We will learn the fundamentals of the Vue.js framework, and this <em>onsite</em> course will get you started using Vue.js to create your own reactive web applications, both multi-pages and single-page applications.</p>
 
