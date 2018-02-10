@@ -14,26 +14,13 @@ title: Free onsite courses for beginners - Code Good Works
 <!--</picture>-->
 
 <header>
-  <h1>Linux <span class="subtitle">-- in Action</span></h1>
+  <h1>Vue.js <span class="subtitle">-- Jump Start</span></h1>
 </header>
 
 
-<p>The Linux operating system is almost everywhere. Most servers on the Internet, in the enterprise clouds and data centres run on Linux. Many developers even use Linux as their development environment, installing Linux on their desktops and laptops.</p>
-<p>Therefore learning the Linux essentials makes sense for all professionals. This <em>onsite</em> training course will cover sufficient basics to get you started working with Linux, such as:</p>
-<div>
-<ul class="course-info">
-<li>Installation</li>
-<li>Remote Login</li>
-<li>Commonly Used Commands</li>
-<li>User Management</li>
-<li>Network Management</li>
-<li>Software Management</li>
-<li>Process Management</li>
-<li>And so on</li>
-</ul>
-</div>
-
-<p>If interested, please read below the arrangement and fill the form to apply. Thank you.</p>
+<p><a href="https://vuejs.org/">Vue.js</a> is a JavaScript framework for building frontend web applications.</p>
+<p>Vue.js is arguably the best and mostly developer friendly JavaScript framework in the industry, even better than ReactJS and AngularJS.</p>
+<p>We will learn the fundamentals of the Vue.js framework, and this <em>onsite</em> course will get you started using Vue.js to create your own reactive web applications, both multi-pages and single-page applications.</p>
 
 <ul class="course-info">
 <li>Time: 2 - 5 pm (3 hours)
@@ -48,7 +35,17 @@ title: Free onsite courses for beginners - Code Good Works
     <li>Cambridge, CB1 9HR</li>
   </ul>
 </li>
-<li>Language: Course delivered in English</li>
+<li>Language: Delivered in English</li>
+<li>Requirements:
+  <ul class="requirement">
+    <li>This course is for adult leaners only.</li>
+    <li>Basic knowledge of JavaScript, HTML and CSS</li>
+    <li>Bring your own laptop if possible</li>
+    <li>A text editor installed 
+(e.g., <a href="https://www.sublimetext.com/">Sublime Text</a>, which is free for evaluation for an unlimited time. Alternatively, <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>, which are totally free.)</li>
+    <li>A browser installed (e.g., Google Chrome or Firefox)</li>
+  </ul>
+</li>
 <li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a> is currently working as a senior full-stack web developer at EMBL-EBI, 
 and he has about 17 years' coding experience.
 </li>
