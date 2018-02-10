@@ -7,7 +7,7 @@ author: yuci_gou
 excerpt_separator: <!--more-->
 ---
 
-In order to SSH to a Ubuntu virtual machine (VM) running in VirtualBox from your host machine, you need to set up two network adapters for the VM.
+In order to [SSH][1] to a [Ubuntu][2] virtual machine (VM) running in [VirtualBox][3] from your host machine, you need to set up two network adapters for the VM.
 
 First of all, stop the VM if not yet. 
 
@@ -38,3 +38,7 @@ For your information:
  - My VirtualBox version: 5.2.6 r120293 (Qt5.6.2), 2018
  - My Ubuntu version: Ubuntu 16.04.3 LTS
  - My host machine: Windows 10
+
+[1]: https://www.ssh.com/
+[2]: https://www.ubuntu.com/
+[3]: https://www.virtualbox.org/
