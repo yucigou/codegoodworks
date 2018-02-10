@@ -39,7 +39,7 @@ Also in your host machine, you can SSH to your VM:
 
 <img src="{{ site.baseurl }}/assets/images/2018-02-10/ssh.png" class="post" alt="SSH to VM from host">
 
-Be sure that the SSH server has been installed and running in the VM.
+Be sure that the SSH server has been installed and up running in the VM.
 
     $ ps aux | grep sshd
     root 864 0.1 0.5 65512 5392 ? Ss 22:10 0:00 /usr/sbin/sshd -D
