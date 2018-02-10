@@ -22,13 +22,13 @@ title: Free onsite courses for beginners - Code Good Works
 <div>
 <ul class="course-info">
 <li>Installation</li>
-<li>Remote Login</li>
-<li>Commonly Used Commands</li>
-<li>User Management</li>
-<li>Network Management</li>
-<li>Software Management</li>
-<li>Process Management</li>
-<li>And so on</li>
+<li>Local and remote login</li>
+<li>Commonly used commands</li>
+<li>User management</li>
+<li>Network management</li>
+<li>Software management</li>
+<li>Process management</li>
+<li>Basic Shell scripting</li>
 </ul>
 </div>
 
