@@ -14,7 +14,7 @@ title: Free onsite courses for beginners - Code Good Works
 <!--</picture>-->
 
 <header>
-  <h1>Linux <span class="subtitle">-- in Action</span></h1>
+  <h1>Linux in Action</h1>
 </header>
 
 <p>The Linux operating system is almost everywhere. Most servers on the Internet, in the enterprise clouds and data centres run on Linux. Many developers even use Linux as their development environment, installing Linux on their desktops and laptops.</p>
