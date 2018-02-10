@@ -46,7 +46,7 @@ Be sure that the SSH server has been installed and up running in the VM.
 
 If not, install it:
 
-    sudo apt-get install openssh-server
+    $ sudo apt-get install openssh-server
 
 Also for your information:
 
