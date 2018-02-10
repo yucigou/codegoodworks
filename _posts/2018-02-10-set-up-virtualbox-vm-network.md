@@ -39,7 +39,16 @@ Also in your host machine, you can SSH to your VM:
 
 <img src="{{ site.baseurl }}/assets/images/2018-02-10/ssh.png" class="post" alt="SSH to VM from host">
 
-For your information:
+Be sure that the SSH server has been installed and running in the VM.
+
+    $ ps aux | grep sshd
+    root 864 0.1 0.5 65512 5392 ? Ss 22:10 0:00 /usr/sbin/sshd -D
+
+If not, install it:
+
+    sudo apt-get install openssh-server
+
+Also for your information:
 
  - My VirtualBox version: 5.2.6 r120293 (Qt5.6.2), 2018
  - My Ubuntu version: Ubuntu 16.04.3 LTS
