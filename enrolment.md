@@ -32,7 +32,7 @@ title: Free onsite courses for beginners - Code Good Works
 </ul>
 </div>
 
-<p>If interested, please read below the arrangement and fill the form to apply. Thank you.</p>
+<p>If interested, please read below the course arrangement and fill the form to apply. Thank you.</p>
 
 <ul class="course-info">
 <li>Time: 2 - 5 pm (3 hours)
