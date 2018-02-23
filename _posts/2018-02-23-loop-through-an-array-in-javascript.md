@@ -101,13 +101,15 @@ Note: The map() method creates a new array with the results of calling a provide
 Note: The filter() method creates a new array with all elements that pass the test implemented by the provided function.
 
 ### References
- * [Array.prototype.forEach()][1]
- * [Array.prototype.map()][2]
- * [Array.prototype.filter()][3]
- * [Spread syntax][4]
+ * [Array.prototype.some()][1]
+ * [Array.prototype.forEach()][2]
+ * [Array.prototype.map()][3]
+ * [Array.prototype.filter()][4]
+ * [Spread syntax][5]
 
 
-  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-  [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-  [3]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-  [4]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some
+  [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+  [3]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+  [4]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+  [5]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
