@@ -11,17 +11,31 @@ Some use cases of looping through an array in the functional programming way in 
 
 ### 1. Just loop through an array
 
-    const myArray = [{x:100}, {x:200}, {x:300}];
+	const myArray = [{x:100}, {x:200}, {x:300}];
 
-    myArray.forEach((element, index, array) => {
-        console.log(element.x); // 100, 200, 300
-        console.log(index); // 0, 1, 2
-        console.log(array); // same myArray object 3 times
-    });
+	myArray.forEach((element, index, array) => {
+		console.log(element.x); // 100, 200, 300
+		console.log(index); // 0, 1, 2
+		console.log(array); // same myArray object 3 times
+	});
+
+Note: Array.prototype.forEach() is not a functional way strictly speaking, as the function it takes as the input parameter is not supposed to return a value, which thus cannot be regarded as a pure function.
 
 <!--more-->
 
-### 2. Transform to a new array
+### 2. Check if any of the elements in an array pass a test
+
+    const people = [
+        {name: 'John', age: 23}, 
+        {name: 'Andrew', age: 3}, 
+        {name: 'Peter', age: 8}, 
+        {name: 'Hanna', age: 14}, 
+        {name: 'Adam', age: 37}];
+
+    const anyAdult = people.some(person => person.age >= 18);
+    console.log(anyAdult); // true
+
+### 3. Transform to a new array
 
     const myArray = [{x:100}, {x:200}, {x:300}];
 
@@ -30,7 +44,7 @@ Some use cases of looping through an array in the functional programming way in 
 
 Note: The map() method creates a new array with the results of calling a provided function on every element in the calling array.
 
-### 3. Sum up a particular property, and calculate its average
+### 4. Sum up a particular property, and calculate its average
 
     const myArray = [{x:100}, {x:200}, {x:300}];
 
@@ -40,7 +54,7 @@ Note: The map() method creates a new array with the results of calling a provide
     const average = sum / myArray.length;
     console.log(average); // 200
 
-### 4. Create a new array based on the original without modifying it
+### 5. Create a new array based on the original without modifying it
 
     const myArray = [{x:100}, {x:200}, {x:300}];
 
@@ -54,7 +68,7 @@ Note: The map() method creates a new array with the results of calling a provide
     console.log(myArray); // [100, 200, 300]
     console.log(newArray); // [200, 400, 600]
 
-### 5. Count the number of each category
+### 6. Count the number of each category
 
     const people = [
         {name: 'John', group: 'A'}, 
@@ -77,7 +91,7 @@ Note: The map() method creates a new array with the results of calling a provide
 
     console.log(groupInfo); // {A: 3, C: 1, B: 2}
 
-### 6. Retrieve a subset of an array based on particular criteria
+### 7. Retrieve a subset of an array based on particular criteria
 
     const myArray = [{x:100}, {x:200}, {x:300}];
 
