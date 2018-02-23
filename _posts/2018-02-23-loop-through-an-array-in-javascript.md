@@ -40,7 +40,7 @@ Note: The map() method creates a new array with the results of calling a provide
     const average = sum / myArray.length;
     console.log(average); // 200
 
-### 4. Create a new array based on the original but without modifying it
+### 4. Create a new array based on the original without modifying it
 
     const myArray = [{x:100}, {x:200}, {x:300}];
 
