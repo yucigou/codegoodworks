@@ -7,7 +7,8 @@ author: yuci_gou
 excerpt_separator: <!--more-->
 ---
 
-Some use cases of looping through an array in JavaScript:
+Some use cases of looping through an array in the functional programming way in JavaScript:
+
 ### 1. Just loop through an array
 
 	const myArray = [{x:100}, {x:200}, {x:300}];
