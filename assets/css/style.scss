@@ -99,6 +99,7 @@ li {
 .site-footer {
 	background: url({{ site.baseurl }}/assets/images/codegoodworks.png) no-repeat right;
 	margin-top: 10px;
+	font-size: smaller;
 
 	@media screen and (max-width: 650px) {
 		text-align: center;
