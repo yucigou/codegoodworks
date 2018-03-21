@@ -14,30 +14,18 @@ title: Free onsite courses for beginners - Code Good Works
 <!--</picture>-->
 
 <header>
-  <h1>Linux in Action</h1>
+  <h1>Vue.js <span class="subtitle"> Jump-start building web apps</span></h1>
 </header>
 
-<p>The Linux operating system is almost everywhere. Most servers on the Internet, in the enterprise clouds and data centres run on Linux. Many developers even use Linux as their development environment, installing Linux on their desktops and laptops.</p>
-<p>Therefore learning the Linux essentials makes sense for all professionals. This <em>onsite</em> training course will cover sufficient basics to get you started working with Linux, such as:</p>
-<div>
-<ul class="course-info">
-<li>Installation</li>
-<li>Local and remote login</li>
-<li>Commonly used commands</li>
-<li>User management</li>
-<li>Network management</li>
-<li>Software management</li>
-<li>Process management</li>
-<li>Basic Shell scripting</li>
-</ul>
-</div>
-
-<p>If interested, please read below the course arrangement and fill the form to apply. Thank you.</p>
+<p>Once you have acquired basic knowledge of HTML, CSS and JavaScript, you are ready to go ahead and learn how to build web applications!</p>
+<p>When setting about building a web application, we won’t code from scratch. Rather we code on top of a JavaScript framework. A JavaScript framework defines the entire application design. It helps the programmer bootstrap and develop a web application following the best practice of the industry.</p>
+<p><a href="https://vuejs.org/">Vue.js</a> is a JavaScript framework for building web applications. It is arguably the best and also most developer-friendly JavaScript framework in the industry, even better than ReactJS and AngularJS.</p>
+<p>We will learn the fundamentals of the Vue.js framework, and this onsite course will get you started using Vue.js to create your own reactive web applications, both multi-pages and single-page applications.</p>
 
 <ul class="course-info">
 <li>Time: 2 - 5 pm (3 hours)
 </li>
-<li>Date: 17 March 2018
+<li>Date: 28 April 2018 (Sat)
 </li>
 <li>Location: 
   <ul class="location">
@@ -47,7 +35,17 @@ title: Free onsite courses for beginners - Code Good Works
     <li>Cambridge, CB1 9HR</li>
   </ul>
 </li>
-<li>Language: Course delivered in English</li>
+<li>Language: Delivered in English</li>
+<li>Requirements:
+  <ul class="requirement">
+    <li>This course is for adult leaners only.</li>
+    <li>Basic knowledge of HTML, CSS and JavaScript</li>
+    <li>Bring your own laptop if possible</li>
+    <li>A text editor installed 
+(e.g., <a href="https://www.sublimetext.com/">Sublime Text</a>, which is free for evaluation for an unlimited time. Alternatively, <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>, which are totally free.)</li>
+    <li>A browser installed (e.g., Google Chrome or Firefox)</li>
+  </ul>
+</li>
 <li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a> is currently working as a senior full-stack web developer at EMBL-EBI, 
 and he has about 17 years' coding experience.
 </li>

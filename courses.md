@@ -14,6 +14,28 @@ title: Past courses - Code Good Works
 </header>
 
 <section>
+  <h2>Course 03: Linux in Action</h2>
+
+  <p>The Linux operating system is almost everywhere. Most servers on the Internet, in the enterprise clouds and data centres run on Linux. Many developers even use Linux as their development environment, installing Linux on their desktops and laptops.</p>
+  <p>Therefore learning the Linux essentials makes sense for all professionals. This <em>onsite</em> training course will cover sufficient basics to get you started working with Linux, such as:</p>
+  <ul>
+    <li>Distributions</li>
+    <li>Installation</li>
+    <li>Local and remote login</li>
+    <li>Commonly used commands</li>
+    <li>System administration: User/Software/Network/Process/</li>
+    <li>Basic Shell scripting</li>
+  </ul>
+  <p>Course arrangement:</p>
+  <ul class="course-info">
+  <li>Time: 2 - 5 pm (3 hours)</li>
+  <li>Date: 17 March 2018</li>
+  <li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a>
+  </li>  
+  </ul>
+</section>
+
+<section>
   <h2>Course 02: JavaScript <span class="subtitle">-- From Novice to Prospective Professional</span></h2>
 
   <p>JavaScript is an object-oriented scripting language which is used in web pages along with HTML and CSS. JavaScript is the only client-side scripting language that has been recognized universally by almost all web browsers, such as Google Chrome, Firefox, Internet Explorer, Opera, and so on.</p>
