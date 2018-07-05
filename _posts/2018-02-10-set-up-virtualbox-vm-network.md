@@ -6,7 +6,7 @@ categories: virtual_machine
 author: yuci_gou
 excerpt_separator: <!--more-->
 ---
-
+{{ site.url }}-----{{ site.baseurl }}
 Once you've installed a virtual machine (VM) such as [Ubuntu][1] in the [VirtualBox][2], you would like to go ahead and configure the VM network so as to be able to do two things:
  - Access the Internet from the VM
  - [SSH][3] to the VM from the host machine
