@@ -70,7 +70,7 @@ Also for your information:
 <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.baseurl }}/assets/images/2018-02-10/setup.png">
+<meta name="twitter:image" content="http://codegoodworks.org/assets/images/2018-02-10/setup.png">
 {% endif %}
 <!-- end of Twitter cards -->
 
