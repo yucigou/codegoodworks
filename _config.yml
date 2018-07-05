@@ -18,7 +18,7 @@ title: Code Good Works
 description: >- # this means to ignore newlines until "baseurl:"
   Code Good Works is committed to providing free training courses to help beginners jump start their coding journeys.
 baseurl: /
-url: http://codegoodworks.org/
+url: http://codegoodworks.org
 # twitter_username: jekyllrb
 github_username:  yucigou
 
@@ -44,3 +44,7 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+twitter_username: Y4815
+
+title_image: /assets/images/codegoodworks.png

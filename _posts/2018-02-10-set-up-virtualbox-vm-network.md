@@ -5,6 +5,7 @@ date:   2018-02-10
 categories: virtual_machine
 author: yuci_gou
 excerpt_separator: <!--more-->
+image: /assets/images/2018-02-10/setup.png
 ---
 
 Once you've installed a virtual machine (VM) such as [Ubuntu][1] in the [VirtualBox][2], you would like to go ahead and configure the VM network so as to be able to do two things:
@@ -53,26 +54,6 @@ Also for your information:
  - My VirtualBox version: 5.2.6 r120293 (Qt5.6.2), 2018
  - My Ubuntu version: Ubuntu 16.04.3 LTS
  - My host machine: Windows 10
-
-<!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter_username }}">
-<meta name="twitter:creator" content="@{{ page.author }}">
-<meta name="twitter:title"   content="{{ page.title }}">
-
-{% if page.summary %}
-<meta name="twitter:description" content="{{ page.summary }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}/assets/images/2018-02-10/setup.png">
-{% endif %}
-<!-- end of Twitter cards -->
 
 [1]: https://www.ubuntu.com/
 [2]: https://www.virtualbox.org/
