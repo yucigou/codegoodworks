@@ -54,6 +54,8 @@ Also for your information:
  - My Ubuntu version: Ubuntu 16.04.3 LTS
  - My host machine: Windows 10
 
+<meta name="twitter:image" content="{{ site.baseurl }}/assets/images/2018-02-10/setup.png">
+
 [1]: https://www.ubuntu.com/
 [2]: https://www.virtualbox.org/
 [3]: https://www.ssh.com/
