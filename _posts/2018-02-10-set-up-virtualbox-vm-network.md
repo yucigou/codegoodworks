@@ -5,6 +5,7 @@ date:   2018-02-10
 categories: virtual_machine
 author: yuci_gou
 excerpt_separator: <!--more-->
+summary: Once you’ve installed a virtual machine (VM) such as Ubuntu in the VirtualBox, you can configure the VM network so as to be able to (1) access the Internet from the VM and (2) SSH to the VM from the host machine
 image: /assets/images/2018-02-10/setup.png
 ---
 
