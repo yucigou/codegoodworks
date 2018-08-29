@@ -14,6 +14,31 @@ title: Past courses - Code Good Works
 </header>
 
 <section>
+  <h2>Course 04: Vue.js jump-start building web apps</h2>
+
+  <p>Once you have acquired basic knowledge of HTML, CSS and JavaScript, you are ready to go ahead and learn how to build web applications!</p>
+  <p>When setting about building a web application, we won’t code from scratch. Rather we code on top of a JavaScript framework. A JavaScript framework defines the entire application design. It helps the programmer bootstrap and develop a web application following the best practice of the industry.</p>
+  <p>Vue.js is a JavaScript framework for building web applications. It is arguably the best and also most developer-friendly JavaScript framework in the industry, even better than ReactJS and AngularJS.</p>
+  <p>We will learn the fundamentals of the Vue.js framework, and this onsite course will get you started using Vue.js to create your own reactive web applications, both multi-pages and single-page applications.</p>
+  <p>Course arrangement:</p>
+  <ul class="course-info">
+  <li>Time: 2 - 5 pm (3 hours)</li>
+  <li>Date: 28 April 2018</li>
+  <li>Requirements:
+    <ul class="requirement">
+      <li>This course is for adult leaners only.</li>
+      <li>Basic knowledge of HTML, CSS and JavaScript</li>
+      <li>A text editor installed 
+  (e.g., <a href="https://www.sublimetext.com/">Sublime Text</a>, which is free for evaluation for an unlimited time. Alternatively, <a href="https://code.visualstudio.com/download">Microsoft Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>, which are totally free.)</li>
+      <li>A browser installed (e.g., Google Chrome or Firefox)</li>
+    </ul>
+  </li>
+  <li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a>
+  </li>  
+  </ul>
+</section>
+
+<section>
   <h2>Course 03: Linux in Action</h2>
 
   <p>The Linux operating system is almost everywhere. Most servers on the Internet, in the enterprise clouds and data centres run on Linux. Many developers even use Linux as their development environment, installing Linux on their desktops and laptops.</p>
