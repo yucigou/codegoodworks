@@ -14,6 +14,26 @@ title: Past courses - Code Good Works
 </header>
 
 <section>
+  <h2>Course 05: Robotics Coding Adventure</h2>
+
+  <p>This course is designed to give kids the first experience in robotics coding, helping them understand what robots are and what they can do. During the course, the children will have fun, and at the same time build their first robots, and make them alive through a number of mini projects using BBC Micro:bit.</p>
+  <p>Course arrangement:</p>
+  <ul class="course-info">
+  <li>Time: 2 - 4 pm (2 hours)</li>
+  <li>Date: 29 August 2018</li>
+  <li>Requirements:
+    <ul class="requirement">
+      <li>This course is for kids aged over 5.</li>
+      <li>No coding experience required</li>
+      <li>Bring your own laptop</li>
+    </ul>
+  </li>
+  <li>Coach: <a href="{{ author.linkedin }}">{{ author.name }}&nbsp;<img class="gravatar" src="{{ author.linkedinimage }}" alt="{{ author.name }}" width="24" height="24"></a>
+  </li>  
+  </ul>
+</section>
+
+<section>
   <h2>Course 04: Vue.js jump-start building web apps</h2>
 
   <p>Once you have acquired basic knowledge of HTML, CSS and JavaScript, you are ready to go ahead and learn how to build web applications!</p>
