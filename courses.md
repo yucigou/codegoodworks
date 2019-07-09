@@ -11,6 +11,7 @@ title: Past courses - Code Good Works
 <header>
   <h1>Past Courses</h1>
   <p>Below we list all the courses we have run in the past.</p>
+  <meta property="og:image" content="https://ichef.bbci.co.uk/news/1024/branded_news/1345C/production/_107804987_gettyimages-531413660-1.jpg" />
 </header>
 
 <section>
