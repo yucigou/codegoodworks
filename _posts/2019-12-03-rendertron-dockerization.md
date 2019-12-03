@@ -7,6 +7,7 @@ author: yuci_gou
 excerpt_separator: <!--more-->
 ---
 
+### Question
 Many frontend frameworks rely on JavaScript to show content. This can mean Google might take some time to index your content or update the indexed content.
 
 In addition to server side rendering techniques such Nuxt.js, Next.js, etc., another workaround option is to implement dynamic rendering, such as [Rendertron][1].
@@ -27,6 +28,7 @@ Any dockerized Rendertron?
 
 <!--more-->
 
+### Solution
 Here is [a forked repo of Rendertron][1], with only Dockerfile, and docker-compose.yaml (optional) added. 
 
 The purpose of this forked repo is to dockerize Rendertron, so that it can be deployed as a Docker container.
